@@ -1,0 +1,84 @@
+Tip: Run Laragon as Administrator when you want to see all processes.
+----------------------------------------------------------------------------
+  Proto  Local Address          Foreign Address        State           PID     Path
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1052
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:3306           0.0.0.0:0              LISTENING       1976    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       5436
+  TCP    0.0.0.0:33060          0.0.0.0:0              LISTENING       1976    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       968
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       868
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       1944
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       2004
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       3348
+  TCP    0.0.0.0:49670          0.0.0.0:0              LISTENING       944
+  TCP    127.0.0.1:9003         0.0.0.0:0              LISTENING       8816    C:\laragon\bin\php\php-8.4.7-Win32-vs17-x64\php-cgi.exe
+  TCP    127.0.0.1:9004         0.0.0.0:0              LISTENING       10876   C:\laragon\bin\php\php-8.4.7-Win32-vs17-x64\php-cgi.exe
+  TCP    127.0.0.1:50552        127.0.0.1:50551        TIME_WAIT       0
+  TCP    127.0.0.1:50554        127.0.0.1:50553        TIME_WAIT       0
+  TCP    127.0.0.1:50560        127.0.0.1:50561        ESTABLISHED     1976    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    127.0.0.1:50561        127.0.0.1:50560        ESTABLISHED     1976    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    127.0.0.1:50562        127.0.0.1:50563        ESTABLISHED     1976    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    127.0.0.1:50563        127.0.0.1:50562        ESTABLISHED     1976    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    192.168.0.115:139      0.0.0.0:0              LISTENING       4
+  TCP    192.168.0.115:50363    4.213.25.242:443       ESTABLISHED     3940
+  TCP    192.168.0.115:50384    74.125.68.188:5228     ESTABLISHED     5012    C:\Program Files\Google\Chrome\Application\chrome.exe
+  TCP    192.168.0.115:50386    3.33.221.48:5222       ESTABLISHED     7332    C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2518.3.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.0.115:50435    118.98.113.73:443      CLOSE_WAIT      7104    C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+  TCP    192.168.0.115:50464    118.98.113.40:443      CLOSE_WAIT      7104    C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+  TCP    192.168.0.115:50465    118.98.113.40:443      CLOSE_WAIT      7104    C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+  TCP    192.168.0.115:50466    118.98.113.40:443      CLOSE_WAIT      7104    C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+  TCP    192.168.0.115:50530    140.82.113.25:443      ESTABLISHED     5012    C:\Program Files\Google\Chrome\Application\chrome.exe
+  TCP    192.168.0.115:50540    67.199.248.10:80       ESTABLISHED     7332    C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2518.3.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.0.115:50542    142.250.4.94:80        CLOSE_WAIT      7332    C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2518.3.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    [::]:80                [::]:0                 LISTENING       4
+  TCP    [::]:135               [::]:0                 LISTENING       1052
+  TCP    [::]:445               [::]:0                 LISTENING       4
+  TCP    [::]:3306              [::]:0                 LISTENING       1976    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    [::]:33060             [::]:0                 LISTENING       1976    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    [::]:49664             [::]:0                 LISTENING       968
+  TCP    [::]:49665             [::]:0                 LISTENING       868
+  TCP    [::]:49666             [::]:0                 LISTENING       1944
+  TCP    [::]:49667             [::]:0                 LISTENING       2004
+  TCP    [::]:49668             [::]:0                 LISTENING       3348
+  TCP    [::]:49670             [::]:0                 LISTENING       944
+  TCP    [::1]:3306             [::1]:50559            TIME_WAIT       0
+  TCP    [::1]:49669            [::]:0                 LISTENING       3768
+  UDP    0.0.0.0:5050           *:*                                    5436
+  UDP    0.0.0.0:5353           *:*                                    4860    C:\Program Files\Google\Chrome\Application\chrome.exe
+  UDP    0.0.0.0:5353           *:*                                    4860    C:\Program Files\Google\Chrome\Application\chrome.exe
+  UDP    0.0.0.0:5353           *:*                                    1984
+  UDP    0.0.0.0:5355           *:*                                    1984
+  UDP    0.0.0.0:49835          *:*                                    1984
+  UDP    0.0.0.0:50097          *:*                                    1984
+  UDP    0.0.0.0:51744          *:*                                    1984
+  UDP    0.0.0.0:52842          *:*                                    1984
+  UDP    0.0.0.0:54077          *:*                                    1984
+  UDP    0.0.0.0:56774          *:*                                    1984
+  UDP    0.0.0.0:61562          *:*                                    1984
+  UDP    0.0.0.0:64280          *:*                                    1984
+  UDP    0.0.0.0:64748          *:*                                    1984
+  UDP    127.0.0.1:1900         *:*                                    8396
+  UDP    127.0.0.1:49664        127.0.0.1:49664                        3760
+  UDP    127.0.0.1:61901        *:*                                    8396
+  UDP    192.168.0.115:137      *:*                                    4
+  UDP    192.168.0.115:138      *:*                                    4
+  UDP    192.168.0.115:1900     *:*                                    8396
+  UDP    192.168.0.115:61900    *:*                                    8396
+  UDP    [::]:5353              *:*                                    1984
+  UDP    [::]:5353              *:*                                    4860    C:\Program Files\Google\Chrome\Application\chrome.exe
+  UDP    [::]:5355              *:*                                    1984
+  UDP    [::]:49835             *:*                                    1984
+  UDP    [::]:50097             *:*                                    1984
+  UDP    [::]:51744             *:*                                    1984
+  UDP    [::]:52842             *:*                                    1984
+  UDP    [::]:54077             *:*                                    1984
+  UDP    [::]:56774             *:*                                    1984
+  UDP    [::]:61562             *:*                                    1984
+  UDP    [::]:64280             *:*                                    1984
+  UDP    [::]:64748             *:*                                    1984
+  UDP    [::1]:1900             *:*                                    8396
+  UDP    [::1]:61899            *:*                                    8396
+  UDP    [fe80::e1f7:4797:abf5:ece1%18]:1900  *:*                                    8396
+  UDP    [fe80::e1f7:4797:abf5:ece1%18]:61898  *:*                                    8396
